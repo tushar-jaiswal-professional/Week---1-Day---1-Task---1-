@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Roboto:wght@500&display=swap');
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  background-image: url('https://cdn.wallpapersafari.com/83/13/lne7uD.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.head{
+  font-size: 50px;
+  color: white;
+  font-weight: bolder;
+  text-align: center
+}
+
+.lang-name{
+  font-size: 50px;
+  color: white;
+}
+
+.fullform{
+  font-size: 27px;
+  color: white;
+}
+
+.img{
+  width: 150px;
+}
+
+table{
+  margin: auto;
+  width: 95%;
+  border-collapse: collapse; 
+}
+
+tr{
+  border-bottom: 1pt solid gray;
+}
+
+table,tr,td{
+  align-items: center
+}
+
+.func{
+  color: white;
+  font-size: 30px;
+  font-weight: light;
+  font-style: italic;
+}
+
+.list{
+  color: white;
+  font-size: 20px;
+}
+
+.space{
+  width: 150px;
+}
